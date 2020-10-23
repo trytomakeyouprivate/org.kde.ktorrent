@@ -4,6 +4,7 @@
     "runtime-version": "5.15",
     "sdk": "org.kde.Sdk",
     "command": "ktorrent",
+    "rename-icon": "ktorrent",
     "finish-args": [
         "--device=dri",
         "--filesystem=host",

@@ -105,8 +105,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/ktorrent/5.2.0/libktorrent-2.2.0.tar.xz",
-                    "sha256": "77c1ddfb0a56c40227e0624c078836a8c22bf5a2fb4a3c0cbd53ee6b174c126e"
+                    "url": "https://download.kde.org/stable/release-service/20.12.0/src/libktorrent-20.12.0.tar.xz",
+                    "sha256": "3780a29f401c02b1851d39fcad4697cc105371a70fefa28fde090830c66968e7"
                 }
             ]
         },
@@ -120,12 +120,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/ktorrent/5.2.0/ktorrent-5.2.0.tar.xz",
-                    "sha256": "d1031d745c1ace02d11b59c426610aee779d208e3d1ae81f8559c265173732ff"
-                },
-                {
-                    "type": "patch",
-                    "path": "appdata.patch"
+                    "url": "https://download.kde.org/stable/release-service/20.12.0/src/ktorrent-20.12.0.tar.xz",
+                    "sha256": "e4b55c47ceea349e8cc248b74e27ae42c53cd48dc6bfcf416519c7bb5a399749"
                 }
             ]
         }

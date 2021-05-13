@@ -31,7 +31,7 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://dl.bintray.com/boostorg/release/1.74.0/source/boost_1_74_0.tar.bz2",
+                    "url": "https://boostorg.jfrog.io/artifactory/main/release/1.74.0/source/boost_1_74_0.tar.bz2",
                     "sha256": "83bfc1507731a0906e387fc28b7ef5417d591429e51e788417fe9ff025e116b1"
                 }
             ]
@@ -105,8 +105,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.04.0/src/libktorrent-21.04.0.tar.xz",
-                    "sha256": "3b95d6ae91c416533129a3762742afdf7fea57526a12cded6e75ca2da65e1031"
+                    "url": "https://download.kde.org/stable/release-service/21.04.1/src/libktorrent-21.04.1.tar.xz",
+                    "sha256": "f6ee742ca5e3f64bc56e94cd65dd8b69ecbb9b2a901262f6274be69b22793e9c"
                 }
             ]
         },
@@ -120,8 +120,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.04.0/src/ktorrent-21.04.0.tar.xz",
-                    "sha256": "858cfcb07f039c17702bb77c1d5aec180d48d38a5d57e38a1536e62a968f4838"
+                    "url": "https://download.kde.org/stable/release-service/21.04.1/src/ktorrent-21.04.1.tar.xz",
+                    "sha256": "17a2118d1f41025af743f8f9de88188388724f69fe657416ec2158d98ef5b53a"
                 }
             ]
         }

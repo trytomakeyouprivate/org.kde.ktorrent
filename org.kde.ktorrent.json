@@ -91,8 +91,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.12.1/src/libktorrent-21.12.1.tar.xz",
-                    "sha256": "fbb57cdb079c93e70f12c1ccdd135d9989c5a7f15dc2043d09a1bbecaee77309"
+                    "url": "https://download.kde.org/stable/release-service/21.12.2/src/libktorrent-21.12.2.tar.xz",
+                    "sha256": "6ef510f4920d818b5117a4dd7ccaa0c30752138c6ec1444706caf4e2f51a5319"
                 }
             ]
         },
@@ -106,8 +106,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.12.1/src/ktorrent-21.12.1.tar.xz",
-                    "sha256": "47766be51dd67f3acd19786e7224d630f9abcf08f37fb9858ed7b71907d58d2e"
+                    "url": "https://download.kde.org/stable/release-service/21.12.2/src/ktorrent-21.12.2.tar.xz",
+                    "sha256": "83f9c5ee7294153324ff0d23cf10a75fb05552c19a587a892ce908592e9e8aff"
                 }
             ]
         }

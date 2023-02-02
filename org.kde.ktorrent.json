@@ -109,8 +109,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.12.1/src/libktorrent-22.12.1.tar.xz",
-                    "sha256": "4deee1265c646d062a91170882ec939d25049546d7488a65d49a9b7d4c467392",
+                    "url": "https://download.kde.org/stable/release-service/22.12.2/src/libktorrent-22.12.2.tar.xz",
+                    "sha256": "19c01b4fe48fa4430020f48b01ae6c7adbba3a4472702e0ef949976b2c61d796",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -130,8 +130,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.12.1/src/ktorrent-22.12.1.tar.xz",
-                    "sha256": "dcc9141c8da923847f2582135b98e9a3e369266103f742d1d905bcd4de616d24",
+                    "url": "https://download.kde.org/stable/release-service/22.12.2/src/ktorrent-22.12.2.tar.xz",
+                    "sha256": "ffb592dae77aec5e3fe90bc661650ddedcbafe91abce26c1f2faa69db0390601",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,

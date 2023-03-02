@@ -109,8 +109,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.12.2/src/libktorrent-22.12.2.tar.xz",
-                    "sha256": "19c01b4fe48fa4430020f48b01ae6c7adbba3a4472702e0ef949976b2c61d796",
+                    "url": "https://download.kde.org/stable/release-service/22.12.3/src/libktorrent-22.12.3.tar.xz",
+                    "sha256": "9cc2bfe05ffbaf145311ce691b2a2cffe7a558647cb28990c675d0e11fc1c965",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,

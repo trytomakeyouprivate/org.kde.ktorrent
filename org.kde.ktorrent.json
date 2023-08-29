@@ -7,7 +7,12 @@
     "rename-icon": "ktorrent",
     "finish-args": [
         "--device=dri",
-        "--filesystem=host",
+        "--filesystem=home",
+        "--filesystem=/media",
+        "--filesystem=/mnt",
+        "--filesystem=/run/media",
+        "--filesystem=/var/run/media",
+        "--filesystem=/var/mnt",
         "--share=ipc",
         "--share=network",
         "--socket=fallback-x11",
